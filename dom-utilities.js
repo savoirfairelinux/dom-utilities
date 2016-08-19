@@ -1,5 +1,5 @@
 // DOM Utilities
-// A Mashup of Functions Gleaned Everywhere to Make Lightweight Vanilla Javascript (internet explorer 8 gte).
+// A mashup of functions gleaned everywhere to code in lightweight vanilla Javascript (internet explorer 8 gte).
 // This is a toolkit, so take what you need and comment or delete the rest.
 // Don't load unused code!
 
